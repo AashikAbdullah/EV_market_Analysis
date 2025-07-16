@@ -34,11 +34,10 @@ This project presents a complete analysis of **India’s Electric Vehicle (EV) m
 
 ---
 
-## 📂 PROJECT STRUCTURE
 EV_market_Analysis/
-├── EV_Market_Analysis.ipynb # Jupyter Notebook with full analysis
-├── EV_India.csv # Dataset with EV sales from 2001–2024
-└── README.md # Project summary and documentation
+├── EV_Market_Analysis.ipynb   # Jupyter Notebook with full analysis
+├── EV_India.csv               # Dataset with EV sales from 2001–2024
+└── README.md                  # Project summary and documentation
 ---
 
 ## 📌 KEY FINDINGS
